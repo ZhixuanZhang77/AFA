@@ -4,7 +4,7 @@
 
 ***** Here, we have found that there is a paper  which similar to ours. In our first submission of this paper to T-IFS, we cited the arXiv work and used it as a baseline (It is possible our submission was assigned to its author). And surprisingly, after the rejection of our first T-IFS submission, the authors submitted work to T-IFS at 27th May 2025, similar to ours. There is a high potential that the author mailiciously reject our T-IFS work and copied our submission to submit to T-IFS.  
 
-Here, I seriously condemn this shameful behavior. This group of shameful authors belongs to the Cyber Science and Engineering School of some 985 University in Wuhan City. 
+Here, I seriously condemn this shameful behavior. This group of shameful authors belongs to the Cyber Science and Engineering School of some University in Wuhan City. 
 
 *Notably, our method is a gradient-based black-box attack method using adversarial flatness.
 
